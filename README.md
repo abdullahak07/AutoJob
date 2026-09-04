@@ -2,15 +2,15 @@
 
 AutoJob is a live dashboard for Australian academic job opportunities and applications in Computer Science, AI, Machine Learning, Data Science, Cybersecurity and related fields.
 
-## How it works
+## Live data flow
 
 - `data/new-opportunities.json` contains jobs that have not been confirmed as applied.
 - `data/applied-jobs.json` contains the Gmail-tracked application list and current statuses.
-- `index.html` loads both data files on every page load or manual refresh.
-- The academic job finder updates new opportunities automatically.
-- The Gmail job-status tracker updates applied jobs automatically.
-- When an application is confirmed, the matching role is removed from New Opportunities.
-- Every update committed to `main` triggers the GitHub Pages deployment workflow.
+- `index.html` loads both files whenever the dashboard opens or Refresh is pressed.
+- The academic job finder keeps New Opportunities synchronized.
+- The Gmail tracker keeps Applied Jobs synchronized.
+- When an application is confirmed, the matching role is removed from New Opportunities so it does not reappear.
+- The Excel trackers remain the master/audit copies while this repository provides the website data layer.
 
 ## Dashboard features
 
@@ -21,13 +21,12 @@ AutoJob is a live dashboard for Australian academic job opportunities and applic
 - Application-status badges
 - Local New / Interested / Ignore controls for quick browser-side triage
 - Responsive desktop and mobile layout
-- Refresh button that bypasses cached tracker data
+- Cache-bypassing Refresh button
 
-## Files
+## Repository structure
 
 - `index.html` — dashboard UI
-- `data/new-opportunities.json` — live discovery data
-- `data/applied-jobs.json` — live applied-job data
-- `.github/workflows/pages.yml` — automatic GitHub Pages deployment
+- `data/new-opportunities.json` — synchronized discovery data
+- `data/applied-jobs.json` — synchronized application-status data
 
 No build step or package installation is required.
