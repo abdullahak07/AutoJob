@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-04T14:38:00+08:00",
+  "updatedAt": "2026-09-04T15:24:00+08:00",
   "jobs": [
     {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
     {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
     {"title":"Postdoctoral Research Fellow","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-10","status":"Unsuccessful"},
     {"title":"Research Associate in Statistical Modelling","org":"Macquarie University","location":"Wallumattagal Campus, North Ryde","closing":"2026-08-10","status":"Application Received"},
-    {"title":"Lecturer/Senior Lecturer in Applied Artificial Intelligence","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-08-13","status":"Under Review"},
+    {"title":"Lecturer/Senior Lecturer in Applied Artificial Intelligence","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-08-13","status":"Under Review","reqId":"R-66539","dateSubmitted":"2026-08-13"},
     {"title":"Postdoctoral Fellow – Responsible Statistical Learning","org":"Australian National University","location":"Acton Campus, Canberra ACT","closing":"2026-08-17","status":"Application Received"},
     {"title":"Lecturer, Graduate Research","org":"The University of Notre Dame Australia","location":"Sydney or Fremantle Campus","closing":"2026-08-27","status":"Under Review"},
     {"title":"Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)","org":"Western Sydney University","location":"Hawkesbury Campus, Richmond NSW","closing":"2026-08-31","status":"Application Received"},
@@ -25,6 +25,8 @@
     {"title":"Research Associate","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received"},
     {"title":"Postdoctoral Research Associate (524145)","org":"The University of Western Australia","location":"Not stated","closing":null,"status":"Application Received"},
     {"title":"Research Fellow - Additive Manufacturing","org":"Swinburne University of Technology","location":"Not stated","closing":null,"status":"Under Review"},
-    {"title":"Bioinformatics Analyst - Level A","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-09-13","status":"Application Received"}
+    {"title":"Bioinformatics Analyst - Level A","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-09-13","status":"Application Received"},
+    {"title":"Postdoctoral Research Fellow - Usable Privacy and Privacy-Preserving Learning","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-09-09","status":"Under Review","reqId":"R-68605","dateSubmitted":"2026-09-03","url":"https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow---Usable-Privacy-and-Privacy-Preserving-Learning_R-68605","fitScore":8.5,"fitReason":"Strong trustworthy/responsible AI, privacy, provenance, software research and cybersecurity overlap; weaker only on the HCI/XR-specific component."},
+    {"title":"Postdoctoral Research Fellow in Computer Science","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-09-27","status":"Under Review","reqId":"R-68456","dateSubmitted":"2026-09-02","url":"https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow-in-Computer-Science_R-68456","fitScore":9.8,"fitReason":"Exceptional match: multimodal AI, digital media forensics, media manipulation, cyber-enabled trust, explainability and near-completion PhD eligibility align directly with the research profile."}
   ]
 }
