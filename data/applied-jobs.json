@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-09-04T14:38:00+08:00",
+  "jobs": [
+    {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
+    {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
+    {"title":"Postdoctoral Research Fellow","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-10","status":"Unsuccessful"},
+    {"title":"Research Associate in Statistical Modelling","org":"Macquarie University","location":"Wallumattagal Campus, North Ryde","closing":"2026-08-10","status":"Application Received"},
+    {"title":"Lecturer/Senior Lecturer in Applied Artificial Intelligence","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-08-13","status":"Under Review"},
+    {"title":"Postdoctoral Fellow – Responsible Statistical Learning","org":"Australian National University","location":"Acton Campus, Canberra ACT","closing":"2026-08-17","status":"Application Received"},
+    {"title":"Lecturer, Graduate Research","org":"The University of Notre Dame Australia","location":"Sydney or Fremantle Campus","closing":"2026-08-27","status":"Under Review"},
+    {"title":"Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)","org":"Western Sydney University","location":"Hawkesbury Campus, Richmond NSW","closing":"2026-08-31","status":"Application Received"},
+    {"title":"Postdoctoral Research Fellow (A) – AI in Computational Biology","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-31","status":"Application Received"},
+    {"title":"Research Fellow - Federated & Multimodal Learning","org":"Monash University","location":"Clayton campus","closing":"2026-08-31","status":"Application Received"},
+    {"title":"Research Fellow","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-08-31","status":"Application Received"},
+    {"title":"Research Fellow – AI/Machine Learning in Pharmaceutical Data","org":"Monash University","location":"Clayton campus","closing":"2026-09-01","status":"Application Received"},
+    {"title":"Postdoctoral Fellow – Wheat Blast Preparedness","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-09-02","status":"Application Received"},
+    {"title":"Postdoctoral Research Associate in Spatial Omics and Statistical Data Science","org":"University of Sydney","location":"Camperdown Campus","closing":"2026-09-03","status":"Application Submitted"},
+    {"title":"Research Associate - UNSW Face Research Lab","org":"UNSW","location":"Sydney, NSW, Australia","closing":"2026-09-03","status":"Application Received"},
+    {"title":"Lecturer or Senior Lecturer in Digital Business","org":"University of the Sunshine Coast (UniSC)","location":"Sippy Downs, QLD, Australia","closing":"2026-09-13","status":"Application Received"},
+    {"title":"Lecturer","org":"University of Wollongong","location":"Not stated","closing":null,"status":"Unsuccessful"},
+    {"title":"Associate Lecturer/Lecturer – AI, Machine Learning & Data Science","org":"Curtin University","location":"Perth, WA, Australia","closing":null,"status":"On Hold"},
+    {"title":"Lecturer Computer Science and IT","org":"SAE University College","location":"Perth, WA, Australia","closing":null,"status":"Under Review"},
+    {"title":"Lecturer - Bachelor of ICT (Perth)","org":"Stanley College","location":"West Perth, WA, Australia","closing":null,"status":"In Progress"},
+    {"title":"Research Fellow","org":"University of Sydney","location":"Not stated","closing":null,"status":"Application Submitted"},
+    {"title":"Research Associate","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received"},
+    {"title":"Postdoctoral Research Associate (524145)","org":"The University of Western Australia","location":"Not stated","closing":null,"status":"Application Received"},
+    {"title":"Research Fellow - Additive Manufacturing","org":"Swinburne University of Technology","location":"Not stated","closing":null,"status":"Under Review"},
+    {"title":"Bioinformatics Analyst - Level A","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-09-13","status":"Application Received"}
+  ]
+}
