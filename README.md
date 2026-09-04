@@ -1,23 +1,33 @@
 # AutoJob
 
-A clean, dependency-free dashboard for tracking Australian academic job opportunities and applications.
+AutoJob is a live dashboard for Australian academic job opportunities and applications in Computer Science, AI, Machine Learning, Data Science, Cybersecurity and related fields.
 
-## Current features
+## How it works
+
+- `data/new-opportunities.json` contains jobs that have not been confirmed as applied.
+- `data/applied-jobs.json` contains the Gmail-tracked application list and current statuses.
+- `index.html` loads both data files on every page load or manual refresh.
+- The academic job finder updates new opportunities automatically.
+- The Gmail job-status tracker updates applied jobs automatically.
+- When an application is confirmed, the matching role is removed from New Opportunities.
+- Every update committed to `main` triggers the GitHub Pages deployment workflow.
+
+## Dashboard features
 
 - New Opportunities and Applied Jobs tabs
-- Search, filtering and deadline sorting
+- Search and filters
+- Closing-date sorting and deadline countdowns
 - Direct job links
-- Application status badges
-- Local New / Interested / Ignore tracking in the browser
+- Application-status badges
+- Local New / Interested / Ignore controls for quick browser-side triage
 - Responsive desktop and mobile layout
-- Already-applied roles excluded from the New Opportunities dataset
+- Refresh button that bypasses cached tracker data
 
-## Run locally
+## Files
 
-Open `index.html` directly in a browser, or serve the repository with any static web server.
+- `index.html` — dashboard UI
+- `data/new-opportunities.json` — live discovery data
+- `data/applied-jobs.json` — live applied-job data
+- `.github/workflows/pages.yml` — automatic GitHub Pages deployment
 
-## Deploy
-
-This is a static site and can be deployed directly to Vercel, GitHub Pages, Netlify, or any static host.
-
-The current dashboard data is a snapshot. The next step is wiring the automated job-discovery and Gmail application-status trackers to update the site data automatically.
+No build step or package installation is required.
