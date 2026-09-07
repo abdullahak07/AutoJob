@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:11:00+08:00",
+  "updatedAt": "2026-09-07T08:08:00+08:00",
   "jobs": [
     {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
     {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
@@ -31,6 +31,7 @@
     {"title":"Lecturer in Artificial Intelligence","org":"Macquarie University","location":"North Ryde, Sydney NSW","closing":"2026-09-07","status":"Application Submitted","reqId":"R000024017-1","dateSubmitted":"2026-09-05","url":"https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Lecturer-in-Artificial-Intelligence_R000024017-1","fitScore":8.9,"fitReason":"Excellent match to AI, ML, neural networks, generative AI/LLMs plus substantial university teaching and an emerging research publication profile."},
     {"title":"Lecturer / Senior Lecturer - Machine Learning","org":"Queensland University of Technology (QUT)","location":"Gardens Point, Brisbane QLD","closing":"2026-09-07","status":"Application Submitted","reqId":"26428","dateSubmitted":"2026-09-05","url":"https://www.qut.edu.au/about/careers","fitScore":8.8,"fitReason":"Very strong ML, deep learning, computer vision, applied AI and teaching alignment; the main gaps are completed-PhD timing and stronger grant/HDR-supervision expectations."},
     {"title":"Lecturer (Data Analytics) – Education Focused","org":"University of Technology Sydney","location":"Sydney, NSW, Australia","closing":"2026-09-17","status":"Application Submitted","reqId":"IRC345860","dateSubmitted":"2026-09-06","url":"https://au.linkedin.com/jobs/view/lecturer-data-analytics-%E2%80%93-education-focused-at-university-of-technology-sydney-4461353568","fitScore":8.0,"fitReason":"Strong match to AI/data analytics, Python-based teaching, curriculum delivery and university teaching experience; the main gaps are the completed-doctorate requirement and less direct experience in R/data visualisation."},
-    {"title":"Associate Lecturer/Lecturer","org":"Curtin University","location":"Not stated","closing":null,"status":"Application Submitted","reqId":"1634218","dateSubmitted":"2026-07-06"}
+    {"title":"Associate Lecturer/Lecturer","org":"Curtin University","location":"Not stated","closing":null,"status":"Application Submitted","reqId":"1634218","dateSubmitted":"2026-07-06"},
+    {"title":"Lecturer/Senior Lecturer in Data Systems and Engineering","org":"The University of Queensland","location":"St Lucia, Brisbane QLD","closing":"2026-09-07","status":"Under Review","reqId":"R-67067","url":"https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1","fitScore":6.9,"fitReason":"Strong AI, multimodal-data and teaching overlap, but the role is fundamentally database/data-systems focused and favours a systems publication record."}
   ]
 }
