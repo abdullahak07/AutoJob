@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:07:26+08:00",
+  "updatedAt": "2026-09-15T15:08:11+08:00",
   "jobs": [
     {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
     {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
@@ -9,7 +9,7 @@
     {"title":"Postdoctoral Fellow – Responsible Statistical Learning","org":"Australian National University","location":"Acton Campus, Canberra ACT","closing":"2026-08-17","status":"Application Received"},
     {"title":"Lecturer, Graduate Research","org":"The University of Notre Dame Australia","location":"Sydney or Fremantle Campus","closing":"2026-08-27","status":"Under Review"},
     {"title":"Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)","org":"Western Sydney University","location":"Hawkesbury Campus, Richmond NSW","closing":"2026-08-31","status":"Application Received"},
-    {"title":"Postdoctoral Research Fellow (A) – AI in Computational Biology","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-31","status":"Application Received"},
+    {"title":"Postdoctoral Research Fellow (A) – AI in Computational Biology","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-31","status":"Unsuccessful","reqId":"493326"},
     {"title":"Research Fellow - Federated & Multimodal Learning","org":"Monash University","location":"Clayton campus","closing":"2026-08-31","status":"Application Received"},
     {"title":"Research Fellow","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-08-31","status":"Application Received"},
     {"title":"Research Fellow – AI/Machine Learning in Pharmaceutical Data","org":"Monash University","location":"Clayton campus","closing":"2026-09-01","status":"Application Received"},
@@ -34,6 +34,7 @@
     {"title":"Associate Lecturer/Lecturer","org":"Curtin University","location":"Not stated","closing":null,"status":"Application Submitted","reqId":"1634218","dateSubmitted":"2026-07-06"},
     {"title":"Lecturer/Senior Lecturer in Data Systems and Engineering","org":"The University of Queensland","location":"St Lucia, Brisbane QLD","closing":"2026-09-07","status":"Under Review","reqId":"R-67067","url":"https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1","fitScore":6.9,"fitReason":"Strong AI, multimodal-data and teaching overlap, but the role is fundamentally database/data-systems focused and favours a systems publication record."},
     {"title":"Postdoctoral Research Fellow/Research Fellow – Intelligent Traffic Analysis & Simulation","org":"Swinburne University of Technology","location":"Hawthorn, Melbourne VIC","closing":"2026-09-17","status":"Application Submitted","dateSubmitted":"2026-09-14","url":"https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867"},
-    {"title":"Grant-Funded Researcher (B)","org":"Adelaide University","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"}
+    {"title":"Grant-Funded Researcher (B)","org":"Adelaide University","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"},
+    {"title":"Research Associate – last-mile logistics","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"}
   ]
 }
