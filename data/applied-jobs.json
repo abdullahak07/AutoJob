@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T06:52:21+08:00",
+  "updatedAt": "2026-09-21T08:34:18+08:00",
   "jobs": [
     {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
     {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
@@ -16,7 +16,7 @@
     {"title":"Postdoctoral Fellow – Wheat Blast Preparedness","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-09-02","status":"Application Received"},
     {"title":"Postdoctoral Research Associate in Spatial Omics and Statistical Data Science","org":"University of Sydney","location":"Camperdown Campus","closing":"2026-09-03","status":"Application Submitted"},
     {"title":"Research Associate - UNSW Face Research Lab","org":"UNSW","location":"Sydney, NSW, Australia","closing":"2026-09-03","status":"Interview","interviewDate":"2026-10-21T13:00:00+11:00","interviewMode":"Microsoft Teams"},
-    {"title":"Lecturer or Senior Lecturer in Digital Business","org":"University of the Sunshine Coast (UniSC)","location":"Sippy Downs, QLD, Australia","closing":"2026-09-13","status":"Application Received"},
+    {"title":"Lecturer or Senior Lecturer in Digital Business","org":"University of the Sunshine Coast (UniSC)","location":"Sippy Downs, QLD, Australia","closing":"2026-09-13","status":"Unsuccessful"},
     {"title":"Lecturer","org":"University of Wollongong","location":"Not stated","closing":null,"status":"Unsuccessful"},
     {"title":"Associate Lecturer/Lecturer – AI, Machine Learning & Data Science","org":"Curtin University","location":"Perth, WA, Australia","closing":null,"status":"On Hold"},
     {"title":"Lecturer Computer Science and IT","org":"SAE University College","location":"Perth, WA, Australia","closing":null,"status":"Under Review"},
