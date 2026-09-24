@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:41:21+08:00",
+  "updatedAt": "2026-09-24T14:30:48+08:00",
   "jobs": [
     {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
     {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
@@ -35,6 +35,7 @@
     {"title":"Lecturer/Senior Lecturer in Data Systems and Engineering","org":"The University of Queensland","location":"St Lucia, Brisbane QLD","closing":"2026-09-07","status":"Under Review","reqId":"R-67067","url":"https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1","fitScore":6.9,"fitReason":"Strong AI, multimodal-data and teaching overlap, but the role is fundamentally database/data-systems focused and favours a systems publication record."},
     {"title":"Postdoctoral Research Fellow/Research Fellow – Intelligent Traffic Analysis & Simulation","org":"Swinburne University of Technology","location":"Hawthorn, Melbourne VIC","closing":"2026-09-17","status":"Application Submitted","dateSubmitted":"2026-09-14","url":"https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867"},
     {"title":"Grant-Funded Researcher (B)","org":"Adelaide University","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"},
-    {"title":"Research Associate – last-mile logistics","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"}
+    {"title":"Research Associate – last-mile logistics","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"},
+    {"title":"Lecturer / Senior Lecturer in Information Technology (Artificial Intelligence)","org":"Southern Cross University","location":"Not stated","closing":null,"status":"Application Received","reqId":"312_08/26","dateSubmitted":"2026-09-24"}
   ]
 }
