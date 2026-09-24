@@ -1,43 +1,325 @@
 {
-  "updatedAt": "2026-09-24T15:33:00+08:00",
+  "updatedAt": "2026-09-25T00:27:50+08:00",
   "jobs": [
-    {"title":"Lecturer in Cyber Security","org":"Adelaide University","location":"Adelaide, SA, Australia","closing":"2026-05-18","status":"Unsuccessful"},
-    {"title":"Lecturer in Computing and Information Technology","org":"University of Newcastle","location":"Not stated","closing":"2026-07-28","status":"Application Submitted"},
-    {"title":"Postdoctoral Research Fellow","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-10","status":"Unsuccessful"},
-    {"title":"Research Associate in Statistical Modelling","org":"Macquarie University","location":"Wallumattagal Campus, North Ryde","closing":"2026-08-10","status":"Application Received"},
-    {"title":"Lecturer/Senior Lecturer in Applied Artificial Intelligence","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-08-13","status":"Under Review","reqId":"R-66539","dateSubmitted":"2026-08-13"},
-    {"title":"Postdoctoral Fellow – Responsible Statistical Learning","org":"Australian National University","location":"Acton Campus, Canberra ACT","closing":"2026-08-17","status":"Application Received"},
-    {"title":"Lecturer, Graduate Research","org":"The University of Notre Dame Australia","location":"Sydney or Fremantle Campus","closing":"2026-08-27","status":"Under Review"},
-    {"title":"Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)","org":"Western Sydney University","location":"Hawkesbury Campus, Richmond NSW","closing":"2026-08-31","status":"Application Received"},
-    {"title":"Postdoctoral Research Fellow (A) – AI in Computational Biology","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-08-31","status":"Unsuccessful","reqId":"493326"},
-    {"title":"Research Fellow - Federated & Multimodal Learning","org":"Monash University","location":"Clayton campus","closing":"2026-08-31","status":"Application Received"},
-    {"title":"Research Fellow","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-08-31","status":"Application Received"},
-    {"title":"Research Fellow – AI/Machine Learning in Pharmaceutical Data","org":"Monash University","location":"Clayton campus","closing":"2026-09-01","status":"Application Received"},
-    {"title":"Postdoctoral Fellow – Wheat Blast Preparedness","org":"Australian National University","location":"Canberra / ACT, ACT, Australia","closing":"2026-09-02","status":"Application Received"},
-    {"title":"Postdoctoral Research Associate in Spatial Omics and Statistical Data Science","org":"University of Sydney","location":"Camperdown Campus","closing":"2026-09-03","status":"Application Submitted"},
-    {"title":"Research Associate - UNSW Face Research Lab","org":"UNSW","location":"Sydney, NSW, Australia","closing":"2026-09-03","status":"Interview","interviewDate":"2026-10-21T13:00:00+11:00","interviewMode":"Microsoft Teams"},
-    {"title":"Lecturer or Senior Lecturer in Digital Business","org":"University of the Sunshine Coast (UniSC)","location":"Sippy Downs, QLD, Australia","closing":"2026-09-13","status":"Unsuccessful"},
-    {"title":"Lecturer","org":"University of Wollongong","location":"Not stated","closing":null,"status":"Unsuccessful"},
-    {"title":"Associate Lecturer/Lecturer – AI, Machine Learning & Data Science","org":"Curtin University","location":"Perth, WA, Australia","closing":null,"status":"On Hold"},
-    {"title":"Lecturer Computer Science and IT","org":"SAE University College","location":"Perth, WA, Australia","closing":null,"status":"Under Review"},
-    {"title":"Lecturer - Bachelor of ICT (Perth)","org":"Stanley College","location":"West Perth, WA, Australia","closing":null,"status":"In Progress"},
-    {"title":"Research Fellow","org":"University of Sydney","location":"Not stated","closing":null,"status":"Application Submitted"},
-    {"title":"Research Associate","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received"},
-    {"title":"Postdoctoral Research Associate (524145)","org":"The University of Western Australia","location":"Not stated","closing":null,"status":"Application Received"},
-    {"title":"Research Fellow - Additive Manufacturing","org":"Swinburne University of Technology","location":"Not stated","closing":null,"status":"Under Review"},
-    {"title":"Bioinformatics Analyst - Level A","org":"Adelaide University","location":"Adelaide CBD, SA, Australia","closing":"2026-09-13","status":"Application Received"},
-    {"title":"Postdoctoral Research Fellow - Usable Privacy and Privacy-Preserving Learning","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-09-09","status":"Unsuccessful","reqId":"R-68605","dateSubmitted":"2026-09-03","url":"https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow---Usable-Privacy-and-Privacy-Preserving-Learning_R-68605","fitScore":8.5,"fitReason":"Strong trustworthy/responsible AI, privacy, provenance, software research and cybersecurity overlap; weaker only on the HCI/XR-specific component."},
-    {"title":"Postdoctoral Research Fellow in Computer Science","org":"The University of Queensland","location":"St Lucia Campus, Brisbane QLD","closing":"2026-09-27","status":"Under Review","reqId":"R-68456","dateSubmitted":"2026-09-02","url":"https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow-in-Computer-Science_R-68456","fitScore":9.8,"fitReason":"Exceptional match: multimodal AI, digital media forensics, media manipulation, cyber-enabled trust, explainability and near-completion PhD eligibility align directly with the research profile."},
-    {"title":"Lecturer in Artificial Intelligence","org":"Macquarie University","location":"North Ryde, Sydney NSW","closing":"2026-09-07","status":"Application Submitted","reqId":"R000024017-1","dateSubmitted":"2026-09-05","url":"https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Lecturer-in-Artificial-Intelligence_R000024017-1","fitScore":8.9,"fitReason":"Excellent match to AI, ML, neural networks, generative AI/LLMs plus substantial university teaching and an emerging research publication profile."},
-    {"title":"Lecturer / Senior Lecturer - Machine Learning","org":"Queensland University of Technology (QUT)","location":"Gardens Point, Brisbane QLD","closing":"2026-09-07","status":"Unsuccessful","reqId":"26428","dateSubmitted":"2026-09-05","url":"https://www.qut.edu.au/about/careers","fitScore":8.8,"fitReason":"Very strong ML, deep learning, computer vision, applied AI and teaching alignment; the main gaps are completed-PhD timing and stronger grant/HDR-supervision expectations."},
-    {"title":"Lecturer (Data Analytics) – Education Focused","org":"University of Technology Sydney","location":"Sydney, NSW, Australia","closing":"2026-09-17","status":"Application Submitted","reqId":"IRC345860","dateSubmitted":"2026-09-06","url":"https://au.linkedin.com/jobs/view/lecturer-data-analytics-%E2%80%93-education-focused-at-university-of-technology-sydney-4461353568","fitScore":8.0,"fitReason":"Strong match to AI/data analytics, Python-based teaching, curriculum delivery and university teaching experience; the main gaps are the completed-doctorate requirement and less direct experience in R/data visualisation."},
-    {"title":"Associate Lecturer/Lecturer","org":"Curtin University","location":"Not stated","closing":null,"status":"Application Submitted","reqId":"1634218","dateSubmitted":"2026-07-06"},
-    {"title":"Lecturer/Senior Lecturer in Data Systems and Engineering","org":"The University of Queensland","location":"St Lucia, Brisbane QLD","closing":"2026-09-07","status":"Under Review","reqId":"R-67067","url":"https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1","fitScore":6.9,"fitReason":"Strong AI, multimodal-data and teaching overlap, but the role is fundamentally database/data-systems focused and favours a systems publication record."},
-    {"title":"Postdoctoral Research Fellow/Research Fellow – Intelligent Traffic Analysis & Simulation","org":"Swinburne University of Technology","location":"Hawthorn, Melbourne VIC","closing":"2026-09-17","status":"Application Submitted","dateSubmitted":"2026-09-14","url":"https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867"},
-    {"title":"Grant-Funded Researcher (B)","org":"Adelaide University","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"},
-    {"title":"Research Associate – last-mile logistics","org":"UNSW","location":"Not stated","closing":null,"status":"Application Received","dateSubmitted":"2026-09-15"},
-    {"title":"Lecturer / Senior Lecturer in Information Technology (Artificial Intelligence)","org":"Southern Cross University","location":"Not stated","closing":null,"status":"Application Received","reqId":"312_08/26","dateSubmitted":"2026-09-24"},
-    {"title":"Lecturer (Education Focused) in Business Analytics","org":"University of Sydney","location":"Darlington Campus, Sydney NSW","closing":"2026-09-27","status":"Application Submitted","reqId":"0156163","dateSubmitted":"2026-09-24"},
-    {"title":"Multiple Permanent Teaching Roles, Canberra School of Professional Studies","org":"UNSW","location":"Canberra, ACT, Australia","closing":null,"status":"Application Received","dateSubmitted":"2026-09-24"}
+    {
+      "title": "Lecturer in Cyber Security",
+      "org": "Adelaide University",
+      "location": "Adelaide, SA, Australia",
+      "closing": "2026-05-18",
+      "status": "Unsuccessful"
+    },
+    {
+      "title": "Lecturer in Computing and Information Technology",
+      "org": "University of Newcastle",
+      "location": "Not stated",
+      "closing": "2026-07-28",
+      "status": "Application Submitted"
+    },
+    {
+      "title": "Postdoctoral Research Fellow",
+      "org": "Adelaide University",
+      "location": "Adelaide CBD, SA, Australia",
+      "closing": "2026-08-10",
+      "status": "Unsuccessful"
+    },
+    {
+      "title": "Research Associate in Statistical Modelling",
+      "org": "Macquarie University",
+      "location": "Wallumattagal Campus, North Ryde",
+      "closing": "2026-08-10",
+      "status": "Application Received"
+    },
+    {
+      "title": "Lecturer/Senior Lecturer in Applied Artificial Intelligence",
+      "org": "The University of Queensland",
+      "location": "St Lucia Campus, Brisbane QLD",
+      "closing": "2026-08-13",
+      "status": "Under Review",
+      "reqId": "R-66539",
+      "dateSubmitted": "2026-08-13"
+    },
+    {
+      "title": "Postdoctoral Fellow – Responsible Statistical Learning",
+      "org": "Australian National University",
+      "location": "Acton Campus, Canberra ACT",
+      "closing": "2026-08-17",
+      "status": "Application Received"
+    },
+    {
+      "title": "Lecturer, Graduate Research",
+      "org": "The University of Notre Dame Australia",
+      "location": "Sydney or Fremantle Campus",
+      "closing": "2026-08-27",
+      "status": "Under Review"
+    },
+    {
+      "title": "Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)",
+      "org": "Western Sydney University",
+      "location": "Hawkesbury Campus, Richmond NSW",
+      "closing": "2026-08-31",
+      "status": "Application Received"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (A) – AI in Computational Biology",
+      "org": "Adelaide University",
+      "location": "Adelaide CBD, SA, Australia",
+      "closing": "2026-08-31",
+      "status": "Unsuccessful",
+      "reqId": "493326"
+    },
+    {
+      "title": "Research Fellow - Federated & Multimodal Learning",
+      "org": "Monash University",
+      "location": "Clayton campus",
+      "closing": "2026-08-31",
+      "status": "Application Received"
+    },
+    {
+      "title": "Research Fellow",
+      "org": "Australian National University",
+      "location": "Canberra / ACT, ACT, Australia",
+      "closing": "2026-08-31",
+      "status": "Application Received"
+    },
+    {
+      "title": "Research Fellow – AI/Machine Learning in Pharmaceutical Data",
+      "org": "Monash University",
+      "location": "Clayton campus",
+      "closing": "2026-09-01",
+      "status": "Application Received"
+    },
+    {
+      "title": "Postdoctoral Fellow – Wheat Blast Preparedness",
+      "org": "Australian National University",
+      "location": "Canberra / ACT, ACT, Australia",
+      "closing": "2026-09-02",
+      "status": "Application Received"
+    },
+    {
+      "title": "Postdoctoral Research Associate in Spatial Omics and Statistical Data Science",
+      "org": "University of Sydney",
+      "location": "Camperdown Campus",
+      "closing": "2026-09-03",
+      "status": "Application Submitted"
+    },
+    {
+      "title": "Research Associate - UNSW Face Research Lab",
+      "org": "UNSW",
+      "location": "Sydney, NSW, Australia",
+      "closing": "2026-09-03",
+      "status": "Interview",
+      "interviewDate": "2026-10-21T13:00:00+11:00",
+      "interviewMode": "Microsoft Teams"
+    },
+    {
+      "title": "Lecturer or Senior Lecturer in Digital Business",
+      "org": "University of the Sunshine Coast (UniSC)",
+      "location": "Sippy Downs, QLD, Australia",
+      "closing": "2026-09-13",
+      "status": "Unsuccessful"
+    },
+    {
+      "title": "Lecturer",
+      "org": "University of Wollongong",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Unsuccessful"
+    },
+    {
+      "title": "Associate Lecturer/Lecturer – AI, Machine Learning & Data Science",
+      "org": "Curtin University",
+      "location": "Perth, WA, Australia",
+      "closing": null,
+      "status": "On Hold"
+    },
+    {
+      "title": "Lecturer Computer Science and IT",
+      "org": "SAE University College",
+      "location": "Perth, WA, Australia",
+      "closing": null,
+      "status": "Under Review"
+    },
+    {
+      "title": "Lecturer - Bachelor of ICT (Perth)",
+      "org": "Stanley College",
+      "location": "West Perth, WA, Australia",
+      "closing": null,
+      "status": "In Progress"
+    },
+    {
+      "title": "Research Fellow",
+      "org": "University of Sydney",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Submitted"
+    },
+    {
+      "title": "Research Associate",
+      "org": "UNSW",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received"
+    },
+    {
+      "title": "Postdoctoral Research Associate (524145)",
+      "org": "The University of Western Australia",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received"
+    },
+    {
+      "title": "Research Fellow - Additive Manufacturing",
+      "org": "Swinburne University of Technology",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Under Review"
+    },
+    {
+      "title": "Bioinformatics Analyst - Level A",
+      "org": "Adelaide University",
+      "location": "Adelaide CBD, SA, Australia",
+      "closing": "2026-09-13",
+      "status": "Application Received"
+    },
+    {
+      "title": "Postdoctoral Research Fellow - Usable Privacy and Privacy-Preserving Learning",
+      "org": "The University of Queensland",
+      "location": "St Lucia Campus, Brisbane QLD",
+      "closing": "2026-09-09",
+      "status": "Unsuccessful",
+      "reqId": "R-68605",
+      "dateSubmitted": "2026-09-03",
+      "url": "https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow---Usable-Privacy-and-Privacy-Preserving-Learning_R-68605",
+      "fitScore": 8.5,
+      "fitReason": "Strong trustworthy/responsible AI, privacy, provenance, software research and cybersecurity overlap; weaker only on the HCI/XR-specific component."
+    },
+    {
+      "title": "Postdoctoral Research Fellow in Computer Science",
+      "org": "The University of Queensland",
+      "location": "St Lucia Campus, Brisbane QLD",
+      "closing": "2026-09-27",
+      "status": "Under Review",
+      "reqId": "R-68456",
+      "dateSubmitted": "2026-09-02",
+      "url": "https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow-in-Computer-Science_R-68456",
+      "fitScore": 9.8,
+      "fitReason": "Exceptional match: multimodal AI, digital media forensics, media manipulation, cyber-enabled trust, explainability and near-completion PhD eligibility align directly with the research profile."
+    },
+    {
+      "title": "Lecturer in Artificial Intelligence",
+      "org": "Macquarie University",
+      "location": "North Ryde, Sydney NSW",
+      "closing": "2026-09-07",
+      "status": "Application Submitted",
+      "reqId": "R000024017-1",
+      "dateSubmitted": "2026-09-05",
+      "url": "https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Lecturer-in-Artificial-Intelligence_R000024017-1",
+      "fitScore": 8.9,
+      "fitReason": "Excellent match to AI, ML, neural networks, generative AI/LLMs plus substantial university teaching and an emerging research publication profile."
+    },
+    {
+      "title": "Lecturer / Senior Lecturer - Machine Learning",
+      "org": "Queensland University of Technology (QUT)",
+      "location": "Gardens Point, Brisbane QLD",
+      "closing": "2026-09-07",
+      "status": "Unsuccessful",
+      "reqId": "26428",
+      "dateSubmitted": "2026-09-05",
+      "url": "https://www.qut.edu.au/about/careers",
+      "fitScore": 8.8,
+      "fitReason": "Very strong ML, deep learning, computer vision, applied AI and teaching alignment; the main gaps are completed-PhD timing and stronger grant/HDR-supervision expectations."
+    },
+    {
+      "title": "Lecturer (Data Analytics) – Education Focused",
+      "org": "University of Technology Sydney",
+      "location": "Sydney, NSW, Australia",
+      "closing": "2026-09-17",
+      "status": "Application Submitted",
+      "reqId": "IRC345860",
+      "dateSubmitted": "2026-09-06",
+      "url": "https://au.linkedin.com/jobs/view/lecturer-data-analytics-%E2%80%93-education-focused-at-university-of-technology-sydney-4461353568",
+      "fitScore": 8,
+      "fitReason": "Strong match to AI/data analytics, Python-based teaching, curriculum delivery and university teaching experience; the main gaps are the completed-doctorate requirement and less direct experience in R/data visualisation."
+    },
+    {
+      "title": "Associate Lecturer/Lecturer",
+      "org": "Curtin University",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Submitted",
+      "reqId": "1634218",
+      "dateSubmitted": "2026-07-06"
+    },
+    {
+      "title": "Lecturer/Senior Lecturer in Data Systems and Engineering",
+      "org": "The University of Queensland",
+      "location": "St Lucia, Brisbane QLD",
+      "closing": "2026-09-07",
+      "status": "Under Review",
+      "reqId": "R-67067",
+      "url": "https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1",
+      "fitScore": 6.9,
+      "fitReason": "Strong AI, multimodal-data and teaching overlap, but the role is fundamentally database/data-systems focused and favours a systems publication record."
+    },
+    {
+      "title": "Postdoctoral Research Fellow/Research Fellow – Intelligent Traffic Analysis & Simulation",
+      "org": "Swinburne University of Technology",
+      "location": "Hawthorn, Melbourne VIC",
+      "closing": "2026-09-17",
+      "status": "Application Submitted",
+      "dateSubmitted": "2026-09-14",
+      "url": "https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867"
+    },
+    {
+      "title": "Grant-Funded Researcher (B)",
+      "org": "Adelaide University",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received",
+      "dateSubmitted": "2026-09-15"
+    },
+    {
+      "title": "Research Associate – last-mile logistics",
+      "org": "UNSW",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received",
+      "dateSubmitted": "2026-09-15"
+    },
+    {
+      "title": "Lecturer / Senior Lecturer in Information Technology (Artificial Intelligence)",
+      "org": "Southern Cross University",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received",
+      "reqId": "312_08/26",
+      "dateSubmitted": "2026-09-24"
+    },
+    {
+      "title": "Lecturer (Education Focused) in Business Analytics",
+      "org": "University of Sydney",
+      "location": "Darlington Campus, Sydney NSW",
+      "closing": "2026-09-27",
+      "status": "Application Submitted",
+      "reqId": "0156163",
+      "dateSubmitted": "2026-09-24"
+    },
+    {
+      "title": "Multiple Permanent Teaching Roles, Canberra School of Professional Studies",
+      "org": "UNSW",
+      "location": "Canberra, ACT, Australia",
+      "closing": null,
+      "status": "Application Received",
+      "dateSubmitted": "2026-09-24"
+    },
+    {
+      "title": "Lecturer / Senior Lecturer / Associate Professor in Computer Science",
+      "org": "Macquarie University",
+      "location": "Wallumattagal Campus, North Ryde",
+      "closing": "2026-10-15",
+      "status": "Under Review",
+      "reqId": "R000024189-1",
+      "dateSubmitted": "2026-09-24"
+    }
   ]
 }
