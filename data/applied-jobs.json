@@ -1,56 +1,65 @@
 {
-  "updatedAt": "2026-09-25T00:27:50+08:00",
+  "updatedAt": "2026-10-23T15:58:38+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
       "org": "Adelaide University",
       "location": "Adelaide, SA, Australia",
       "closing": "2026-05-18",
-      "status": "Unsuccessful"
+      "status": "Unsuccessful",
+      "reqId": "492904",
+      "submittedAt": "2026-05-18"
     },
     {
       "title": "Lecturer in Computing and Information Technology",
       "org": "University of Newcastle",
       "location": "Not stated",
       "closing": "2026-07-28",
-      "status": "Application Submitted"
+      "status": "On Hold"
     },
     {
       "title": "Postdoctoral Research Fellow",
       "org": "Adelaide University",
       "location": "Adelaide CBD, SA, Australia",
       "closing": "2026-08-10",
-      "status": "Unsuccessful"
+      "status": "Unsuccessful",
+      "reqId": "492945",
+      "submittedAt": "2026-08-10"
     },
     {
       "title": "Research Associate in Statistical Modelling",
       "org": "Macquarie University",
       "location": "Wallumattagal Campus, North Ryde",
       "closing": "2026-08-10",
-      "status": "Application Received"
+      "status": "Unsuccessful",
+      "reqId": "R000024018",
+      "submittedAt": "2026-08-10"
     },
     {
       "title": "Lecturer/Senior Lecturer in Applied Artificial Intelligence",
       "org": "The University of Queensland",
       "location": "St Lucia Campus, Brisbane QLD",
       "closing": "2026-08-13",
-      "status": "Under Review",
+      "status": "Unsuccessful",
       "reqId": "R-66539",
-      "dateSubmitted": "2026-08-13"
+      "dateSubmitted": "2026-08-13",
+      "submittedAt": "2026-08-13"
     },
     {
       "title": "Postdoctoral Fellow – Responsible Statistical Learning",
       "org": "Australian National University",
       "location": "Acton Campus, Canberra ACT",
       "closing": "2026-08-17",
-      "status": "Application Received"
+      "status": "Unsuccessful",
+      "reqId": "562999",
+      "submittedAt": "2026-08-17"
     },
     {
       "title": "Lecturer, Graduate Research",
       "org": "The University of Notre Dame Australia",
       "location": "Sydney or Fremantle Campus",
       "closing": "2026-08-27",
-      "status": "Under Review"
+      "status": "Unsuccessful"
     },
     {
       "title": "Postdoctoral Research Fellow in Data Science for Smart Horticulture (ARC TC-SaSH)",
@@ -65,42 +74,53 @@
       "location": "Adelaide CBD, SA, Australia",
       "closing": "2026-08-31",
       "status": "Unsuccessful",
-      "reqId": "493326"
+      "reqId": "493326",
+      "submittedAt": "2026-08-30"
     },
     {
       "title": "Research Fellow - Federated & Multimodal Learning",
       "org": "Monash University",
       "location": "Clayton campus",
       "closing": "2026-08-31",
-      "status": "Application Received"
+      "status": "Application Received",
+      "reqId": "695158",
+      "submittedAt": "2026-08-31"
     },
     {
       "title": "Research Fellow",
       "org": "Australian National University",
       "location": "Canberra / ACT, ACT, Australia",
       "closing": "2026-08-31",
-      "status": "Application Received"
+      "status": "Application Received",
+      "reqId": "562348",
+      "submittedAt": "2026-08-31"
     },
     {
       "title": "Research Fellow – AI/Machine Learning in Pharmaceutical Data",
       "org": "Monash University",
       "location": "Clayton campus",
       "closing": "2026-09-01",
-      "status": "Application Received"
+      "status": "Application Received",
+      "reqId": "697007",
+      "submittedAt": "2026-08-31"
     },
     {
       "title": "Postdoctoral Fellow – Wheat Blast Preparedness",
       "org": "Australian National University",
       "location": "Canberra / ACT, ACT, Australia",
       "closing": "2026-09-02",
-      "status": "Application Received"
+      "status": "Application Received",
+      "reqId": "563304",
+      "submittedAt": "2026-09-03"
     },
     {
       "title": "Postdoctoral Research Associate in Spatial Omics and Statistical Data Science",
       "org": "University of Sydney",
       "location": "Camperdown Campus",
       "closing": "2026-09-03",
-      "status": "Application Submitted"
+      "status": "Unsuccessful",
+      "reqId": "0153730",
+      "submittedAt": "2026-08-31"
     },
     {
       "title": "Research Associate - UNSW Face Research Lab",
@@ -109,7 +129,9 @@
       "closing": "2026-09-03",
       "status": "Interview",
       "interviewDate": "2026-10-21T13:00:00+11:00",
-      "interviewMode": "Microsoft Teams"
+      "interviewMode": "Microsoft Teams",
+      "reqId": "541202",
+      "submittedAt": "2026-09-02"
     },
     {
       "title": "Lecturer or Senior Lecturer in Digital Business",
@@ -151,35 +173,44 @@
       "org": "University of Sydney",
       "location": "Not stated",
       "closing": null,
-      "status": "Application Submitted"
+      "status": "Application Submitted",
+      "reqId": "0153314",
+      "submittedAt": "2026-09-03"
     },
     {
       "title": "Research Associate",
       "org": "UNSW",
       "location": "Not stated",
       "closing": null,
-      "status": "Application Received"
+      "status": "Unsuccessful",
+      "reqId": "542365",
+      "submittedAt": "2026-09-03"
     },
     {
       "title": "Postdoctoral Research Associate (524145)",
       "org": "The University of Western Australia",
       "location": "Not stated",
       "closing": null,
-      "status": "Application Received"
+      "status": "Unsuccessful",
+      "reqId": "524145"
     },
     {
       "title": "Research Fellow - Additive Manufacturing",
       "org": "Swinburne University of Technology",
       "location": "Not stated",
       "closing": null,
-      "status": "Under Review"
+      "status": "Unsuccessful",
+      "reqId": "1836_08/26_RTR",
+      "submittedAt": "2026-09-03"
     },
     {
       "title": "Bioinformatics Analyst - Level A",
       "org": "Adelaide University",
       "location": "Adelaide CBD, SA, Australia",
       "closing": "2026-09-13",
-      "status": "Application Received"
+      "status": "Application Received",
+      "reqId": "493398",
+      "submittedAt": "2026-09-03"
     },
     {
       "title": "Postdoctoral Research Fellow - Usable Privacy and Privacy-Preserving Learning",
@@ -198,24 +229,26 @@
       "org": "The University of Queensland",
       "location": "St Lucia Campus, Brisbane QLD",
       "closing": "2026-09-27",
-      "status": "Under Review",
+      "status": "Unsuccessful",
       "reqId": "R-68456",
       "dateSubmitted": "2026-09-02",
       "url": "https://uq.wd3.myworkdayjobs.com/en-GB/uqcareers/job/Postdoctoral-Research-Fellow-in-Computer-Science_R-68456",
       "fitScore": 9.8,
-      "fitReason": "Exceptional match: multimodal AI, digital media forensics, media manipulation, cyber-enabled trust, explainability and near-completion PhD eligibility align directly with the research profile."
+      "fitReason": "Exceptional match: multimodal AI, digital media forensics, media manipulation, cyber-enabled trust, explainability and near-completion PhD eligibility align directly with the research profile.",
+      "submittedAt": "2026-09-02"
     },
     {
       "title": "Lecturer in Artificial Intelligence",
       "org": "Macquarie University",
       "location": "North Ryde, Sydney NSW",
       "closing": "2026-09-07",
-      "status": "Application Submitted",
+      "status": "Unsuccessful",
       "reqId": "R000024017-1",
       "dateSubmitted": "2026-09-05",
       "url": "https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Lecturer-in-Artificial-Intelligence_R000024017-1",
       "fitScore": 8.9,
-      "fitReason": "Excellent match to AI, ML, neural networks, generative AI/LLMs plus substantial university teaching and an emerging research publication profile."
+      "fitReason": "Excellent match to AI, ML, neural networks, generative AI/LLMs plus substantial university teaching and an emerging research publication profile.",
+      "submittedAt": "2026-09-05"
     },
     {
       "title": "Lecturer / Senior Lecturer - Machine Learning",
@@ -255,7 +288,7 @@
       "org": "The University of Queensland",
       "location": "St Lucia, Brisbane QLD",
       "closing": "2026-09-07",
-      "status": "Under Review",
+      "status": "Unsuccessful",
       "reqId": "R-67067",
       "url": "https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Lecturer-Senior-Lecturer-in-Data-Systems-and-Engineering_R-67067-1",
       "fitScore": 6.9,
@@ -266,9 +299,11 @@
       "org": "Swinburne University of Technology",
       "location": "Hawthorn, Melbourne VIC",
       "closing": "2026-09-17",
-      "status": "Application Submitted",
+      "status": "Unsuccessful",
       "dateSubmitted": "2026-09-14",
-      "url": "https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867"
+      "url": "https://au.linkedin.com/jobs/view/postdoctoral-research-fellow-research-fellow-%E2%80%93-intelligent-traffic-analysis-simulation-at-swinburne-university-of-technology-4463084867",
+      "reqId": "1964_08/26_RTR",
+      "submittedAt": "2026-09-14"
     },
     {
       "title": "Grant-Funded Researcher (B)",
@@ -276,22 +311,26 @@
       "location": "Not stated",
       "closing": null,
       "status": "Application Received",
-      "dateSubmitted": "2026-09-15"
+      "dateSubmitted": "2026-09-15",
+      "reqId": "493461",
+      "submittedAt": "2026-09-15"
     },
     {
       "title": "Research Associate – last-mile logistics",
       "org": "UNSW",
       "location": "Not stated",
       "closing": null,
-      "status": "Application Received",
-      "dateSubmitted": "2026-09-15"
+      "status": "Unsuccessful",
+      "dateSubmitted": "2026-09-15",
+      "reqId": "542549",
+      "submittedAt": "2026-09-15"
     },
     {
       "title": "Lecturer / Senior Lecturer in Information Technology (Artificial Intelligence)",
       "org": "Southern Cross University",
       "location": "Not stated",
       "closing": null,
-      "status": "Application Received",
+      "status": "Unsuccessful",
       "reqId": "312_08/26",
       "dateSubmitted": "2026-09-24"
     },
@@ -300,9 +339,10 @@
       "org": "University of Sydney",
       "location": "Darlington Campus, Sydney NSW",
       "closing": "2026-09-27",
-      "status": "Application Submitted",
+      "status": "Under Review",
       "reqId": "0156163",
-      "dateSubmitted": "2026-09-24"
+      "dateSubmitted": "2026-09-24",
+      "submittedAt": "2026-09-24"
     },
     {
       "title": "Multiple Permanent Teaching Roles, Canberra School of Professional Studies",
@@ -310,7 +350,9 @@
       "location": "Canberra, ACT, Australia",
       "closing": null,
       "status": "Application Received",
-      "dateSubmitted": "2026-09-24"
+      "dateSubmitted": "2026-09-24",
+      "reqId": "541745",
+      "submittedAt": "2026-09-24"
     },
     {
       "title": "Lecturer / Senior Lecturer / Associate Professor in Computer Science",
@@ -319,7 +361,114 @@
       "closing": "2026-10-15",
       "status": "Under Review",
       "reqId": "R000024189-1",
-      "dateSubmitted": "2026-09-24"
+      "dateSubmitted": "2026-09-24",
+      "submittedAt": "2026-09-24"
+    },
+    {
+      "title": "Research Associate in Machine Learning",
+      "org": "Macquarie University",
+      "location": "North Ryde, Sydney NSW",
+      "closing": "Not stated",
+      "status": "Unsuccessful",
+      "reqId": "R000024571",
+      "submittedAt": "2026-09-28"
+    },
+    {
+      "title": "Research Data Scientist",
+      "org": "Macquarie University",
+      "location": "North Ryde, Sydney NSW",
+      "closing": "Not stated",
+      "status": "Unsuccessful",
+      "reqId": "R000024227",
+      "submittedAt": "2026-09-29"
+    },
+    {
+      "title": "Research Fellow - Trustworthy AI & Cybersecurity",
+      "org": "Monash University",
+      "location": "Not stated",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "reqId": "697810",
+      "submittedAt": "2026-10-01"
+    },
+    {
+      "title": "Research Fellow, Data Scientist (Wearable Technologies, Digital Health & Artificial Intelligence)",
+      "org": "Monash University",
+      "location": "Not stated",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "reqId": "697562",
+      "submittedAt": "2026-10-01"
+    },
+    {
+      "title": "Research Associate",
+      "org": "Adelaide University",
+      "location": "Not stated",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "submittedAt": "2026-10-03"
+    },
+    {
+      "title": "Postdoctoral Fellow / Research Fellow",
+      "org": "Australian National University",
+      "location": "Not stated",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "submittedAt": "2026-10-04"
+    },
+    {
+      "title": "Lecturer/Senior Lecturer in Cyber Security",
+      "org": "Macquarie University",
+      "location": "North Ryde, Sydney NSW",
+      "closing": "Not stated",
+      "status": "Under Review",
+      "reqId": "R000022247",
+      "submittedAt": "2026-10-05"
+    },
+    {
+      "title": "Multiple Continuing (Tenure-Track) Academic Positions, Faculty of Engineering",
+      "org": "University of Sydney",
+      "location": "Sydney, NSW, Australia",
+      "closing": "Not stated",
+      "status": "Application Submitted",
+      "reqId": "0157992",
+      "submittedAt": "2026-10-05"
+    },
+    {
+      "title": "Graduate Information and Communications Technology (ICT)",
+      "org": "WorkCover WA",
+      "location": "Perth, WA, Australia",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "reqId": "02203939",
+      "submittedAt": "2026-10-07"
+    },
+    {
+      "title": "Postdoctoral Research Fellow - Data Science",
+      "org": "The University of Queensland",
+      "location": "Brisbane, QLD, Australia",
+      "closing": "Not stated",
+      "status": "Unsuccessful",
+      "reqId": "R-68823",
+      "submittedAt": "2026-09-29"
+    },
+    {
+      "title": "Teaching Focused Lecturer/Senior Lecturer in Data Science and Artificial Intelligence",
+      "org": "The University of Queensland",
+      "location": "Brisbane, QLD, Australia",
+      "closing": "Not stated",
+      "status": "Under Review",
+      "reqId": "R-67597",
+      "submittedAt": "2026-09-24"
+    },
+    {
+      "title": "Research Fellow – Data Scientist / Biostatistician",
+      "org": "University of Melbourne",
+      "location": "Melbourne, VIC, Australia",
+      "closing": "Not stated",
+      "status": "Unsuccessful",
+      "reqId": "JR-018490",
+      "submittedAt": "2026-09-30"
     }
   ]
 }
