@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:58:38+08:00",
+  "updatedAt": "2026-10-26T20:00:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -469,6 +469,30 @@
       "status": "Unsuccessful",
       "reqId": "JR-018490",
       "submittedAt": "2026-09-30"
+    },
+    {
+      "title": "Research Assistant (Full-time) — Research Institute for Federated Learning",
+      "org": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "reqId": "261020009",
+      "applicationNumber": "346962",
+      "submittedAt": "2026-10-26",
+      "source": "Gmail acknowledgement",
+      "gmailMessageId": "1a1780a3ad0ff550"
+    },
+    {
+      "title": "Research Assistant (Full-time) — Department of Computing",
+      "org": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "reqId": "261020005",
+      "applicationNumber": "346960",
+      "submittedAt": "2026-10-26",
+      "source": "Gmail acknowledgement",
+      "gmailMessageId": "1a17804d136d3862"
     }
   ]
 }
