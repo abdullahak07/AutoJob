@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:00:00+08:00",
+  "updatedAt": "2026-10-27T10:00:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -82,9 +82,13 @@
       "org": "Monash University",
       "location": "Clayton campus",
       "closing": "2026-08-31",
-      "status": "Application Received",
+      "status": "Unsuccessful",
       "reqId": "695158",
-      "submittedAt": "2026-08-31"
+      "submittedAt": "2026-08-31",
+      "statusUpdatedAt": "2026-10-27",
+      "statusSource": "Gmail",
+      "statusGmailMessageId": "1a17a1ae7029d40e",
+      "statusNote": "Monash rejection email received 27 Oct 2026 AWST"
     },
     {
       "title": "Research Fellow",
@@ -127,11 +131,15 @@
       "org": "UNSW",
       "location": "Sydney, NSW, Australia",
       "closing": "2026-09-03",
-      "status": "Interview",
+      "status": "Unsuccessful",
       "interviewDate": "2026-10-21T13:00:00+11:00",
       "interviewMode": "Microsoft Teams",
       "reqId": "541202",
-      "submittedAt": "2026-09-02"
+      "submittedAt": "2026-09-02",
+      "statusUpdatedAt": "2026-10-27",
+      "statusSource": "Gmail",
+      "statusGmailMessageId": "1a17af69e7c83a62",
+      "statusNote": "Unsuccessful after interview; UNSW outcome email 27 Oct 2026"
     },
     {
       "title": "Lecturer or Senior Lecturer in Digital Business",
@@ -396,9 +404,13 @@
       "org": "Monash University",
       "location": "Not stated",
       "closing": "Not stated",
-      "status": "Application Received",
+      "status": "Under Review",
       "reqId": "697562",
-      "submittedAt": "2026-10-01"
+      "submittedAt": "2026-10-01",
+      "statusUpdatedAt": "2026-10-27",
+      "statusSource": "Gmail",
+      "statusGmailMessageId": "1a17acea33deb131",
+      "statusNote": "Monash selection panel still reviewing applications, 27 Oct 2026"
     },
     {
       "title": "Research Associate",
