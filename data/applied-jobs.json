@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:00:00+08:00",
+  "updatedAt": "2026-10-28T09:55:47+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -357,10 +357,14 @@
       "org": "UNSW",
       "location": "Canberra, ACT, Australia",
       "closing": null,
-      "status": "Application Received",
+      "status": "Unsuccessful",
       "dateSubmitted": "2026-09-24",
       "reqId": "541745",
-      "submittedAt": "2026-09-24"
+      "submittedAt": "2026-09-24",
+      "statusUpdatedAt": "2026-10-28",
+      "statusSource": "Gmail",
+      "statusGmailMessageId": "1a1801e9b9abf886",
+      "statusNote": "UNSW rejection email received 28 October 2026 for Permanent Teaching Roles, Canberra School of Professional Studies (Job ID 541745)"
     },
     {
       "title": "Lecturer / Senior Lecturer / Associate Professor in Computer Science",
