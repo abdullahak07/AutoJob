@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:59:18+08:00",
+  "updatedAt": "2026-10-29T20:00:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -524,6 +524,18 @@
       "submittedAt": "2026-10-28",
       "source": "Gmail acknowledgement",
       "gmailMessageId": "1a18339586c004db"
+    },
+    {
+      "title": "Research Fellow - Machine Learning for LEO Satellite Communications",
+      "org": "Macquarie University",
+      "location": "North Ryde, Sydney NSW",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "submittedAt": "2026-10-29",
+      "dateSubmitted": "2026-10-29",
+      "url": "https://www.linkedin.com/jobs/view/4472850056",
+      "source": "Gmail application acknowledgement",
+      "gmailMessageId": "1a18665caccb5cbb"
     }
   ]
 }
