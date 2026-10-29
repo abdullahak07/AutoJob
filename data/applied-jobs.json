@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:55:47+08:00",
+  "updatedAt": "2026-10-29T09:59:18+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -421,8 +421,13 @@
       "org": "Adelaide University",
       "location": "Not stated",
       "closing": "Not stated",
-      "status": "Application Received",
-      "submittedAt": "2026-10-03"
+      "status": "Unsuccessful",
+      "submittedAt": "2026-10-03",
+      "reqId": "493558",
+      "statusUpdatedAt": "2026-10-29",
+      "statusSource": "Gmail decision",
+      "statusGmailMessageId": "1a185582908c4485",
+      "statusNote": "Adelaide University confirmed application will not progress (email 29 Oct 2026)."
     },
     {
       "title": "Postdoctoral Fellow / Research Fellow",
@@ -509,6 +514,16 @@
       "submittedAt": "2026-10-26",
       "source": "Gmail acknowledgement",
       "gmailMessageId": "1a17804d136d3862"
+    },
+    {
+      "title": "Research Assistant on Scientific Intelligence (Computer Science)",
+      "org": "National University of Singapore",
+      "location": "Singapore",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "submittedAt": "2026-10-28",
+      "source": "Gmail acknowledgement",
+      "gmailMessageId": "1a18339586c004db"
     }
   ]
 }
