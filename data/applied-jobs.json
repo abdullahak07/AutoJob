@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:00:00+08:00",
+  "updatedAt": "2026-11-03T10:00:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -536,6 +536,17 @@
       "url": "https://www.linkedin.com/jobs/view/4472850056",
       "source": "Gmail application acknowledgement",
       "gmailMessageId": "1a18665caccb5cbb"
+    },
+    {
+      "title": "Post-doctoral Fellow",
+      "org": "UNSW",
+      "location": "Sydney, NSW, Australia",
+      "closing": "Not stated",
+      "status": "Application Received",
+      "submittedAt": "2026-11-02",
+      "source": "Gmail application acknowledgement",
+      "gmailMessageId": "1a19c6b0ca84d941",
+      "statusNote": "UNSW confirmation of Post-doctoral Fellow application; requisition ID not supplied"
     }
   ]
 }
