@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:00:00+08:00",
+  "updatedAt": "2026-11-04T10:01:41+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -399,7 +399,7 @@
       "org": "Monash University",
       "location": "Not stated",
       "closing": "Not stated",
-      "status": "Application Received",
+      "status": "Unsuccessful",
       "reqId": "697810",
       "submittedAt": "2026-10-01"
     },
@@ -478,7 +478,7 @@
       "org": "The University of Queensland",
       "location": "Brisbane, QLD, Australia",
       "closing": "Not stated",
-      "status": "Under Review",
+      "status": "Unsuccessful",
       "reqId": "R-67597",
       "submittedAt": "2026-09-24"
     },
