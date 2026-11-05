@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:01:41+08:00",
+  "updatedAt": "2026-11-05T20:00:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -547,6 +547,17 @@
       "source": "Gmail application acknowledgement",
       "gmailMessageId": "1a19c6b0ca84d941",
       "statusNote": "UNSW confirmation of Post-doctoral Fellow application; requisition ID not supplied"
+    },
+    {
+      "title": "Research Associate",
+      "org": "UNSW",
+      "location": "Not stated",
+      "closing": null,
+      "status": "Application Received",
+      "submittedAt": "2026-11-05",
+      "source": "Gmail application acknowledgement",
+      "gmailMessageId": "1a1ab2e6cf2d50c7",
+      "statusNote": "UNSW Research Associate acknowledgement received 5 Nov 2026; no requisition ID supplied. Distinctness from previously tracked UNSW Research Associate roles not yet established; retained separately pending requisition confirmation."
     }
   ]
 }
