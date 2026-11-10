@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:00:00+08:00",
+  "updatedAt": "2026-11-10T10:04:00+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -408,13 +408,13 @@
       "org": "Monash University",
       "location": "Not stated",
       "closing": "Not stated",
-      "status": "Under Review",
+      "status": "Unsuccessful",
       "reqId": "697562",
       "submittedAt": "2026-10-01",
-      "statusUpdatedAt": "2026-10-27",
+      "statusUpdatedAt": "2026-11-10",
       "statusSource": "Gmail",
-      "statusGmailMessageId": "1a17acea33deb131",
-      "statusNote": "Monash selection panel still reviewing applications, 27 Oct 2026"
+      "statusGmailMessageId": "1a1c2bb4cddd65bb",
+      "statusNote": "Monash outcome email 10 Nov 2026: unsuccessful; over 120 applications received."
     },
     {
       "title": "Research Associate",
