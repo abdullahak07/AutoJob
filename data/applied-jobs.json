@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T20:03:00+08:00",
+  "updatedAt": "2026-11-12T10:03:46+08:00",
   "jobs": [
     {
       "title": "Lecturer in Cyber Security",
@@ -216,9 +216,13 @@
       "org": "Adelaide University",
       "location": "Adelaide CBD, SA, Australia",
       "closing": "2026-09-13",
-      "status": "Application Received",
+      "status": "Unsuccessful",
       "reqId": "493398",
-      "submittedAt": "2026-09-03"
+      "submittedAt": "2026-09-03",
+      "statusUpdatedAt": "2026-11-12",
+      "statusSource": "Gmail decision",
+      "statusGmailMessageId": "1a1cd21c45cb0dbd",
+      "statusNote": "Adelaide University rejection for Research Associate A, requisition 493398. Existing tracker title Bioinformatics Analyst - Level A differs; requisition match confirmed, title discrepancy retained for review."
     },
     {
       "title": "Postdoctoral Research Fellow - Usable Privacy and Privacy-Preserving Learning",
